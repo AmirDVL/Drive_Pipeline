@@ -1,4 +1,4 @@
-# Nigel V11.2 — The Fortress Edition
+# Nigel Vlast - Working Edition
 
 Nigel is a high-performance, standalone Telegram MTProto relay that bridges Telegram, the web, and your cloud storage. It uses the MTProto engine to natively handle large files (up to 2GB) without Docker or local API servers.
 
